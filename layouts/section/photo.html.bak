@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+    <main class="pal">
+      <h1 class="tc ttu fw4 f6 lt-silver">Photos</h1>
+            {{ range first 10 .Data.Pages }}
+                {{ if eq .Type "photo"}}
+                <h2 class="tc"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                {{ .Render "summary"}}
+                {{ end }}
+            {{ end }}
+    </main>
+
+{{ partial "footer.html" . }}

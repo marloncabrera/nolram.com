@@ -1,0 +1,7 @@
+baseurl = "http://nolram.com"
+languageCode = "en-us"
+title = "Hugo Teste"
+publishdir = "_site"
+[permalinks]
+    page = "/:title/"
+    about = "/:filename/"
