@@ -1,4 +1,4 @@
 nolram
 ==========
 
-[http://nolram.com](nolram.com) my personal website
+[nolram.com](http://nolram.com) my personal website
