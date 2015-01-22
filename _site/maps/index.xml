@@ -3,7 +3,7 @@
   <channel>
       <title>Maps on Hugo Teste </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://nolram.com/maps/index.xml/</link>
+    <link>http://localhost:1313/maps/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>atividades_13112014</title>
-      <link>http://nolram.com/maps/atividades_13112014/</link>
+      <link>http://localhost:1313/maps/atividades_13112014/</link>
       <pubDate>Thu, 13 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/maps/atividades_13112014/</guid>
+      <guid>http://localhost:1313/maps/atividades_13112014/</guid>
       <description>&lt;p&gt;Trajeto Casa/Trabalho de bicicleta: ~13KM:&lt;/p&gt;
 
 &lt;script src=&#34;https://gist.github.com/marloncabrera/2acd71f06090cfed1751.js&#34;&gt;&lt;/script&gt;

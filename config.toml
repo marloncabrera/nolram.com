@@ -1,6 +1,6 @@
 baseurl = "http://nolram.com"
 languageCode = "en-us"
-title = "Hugo Teste"
+title = "Nolram"
 publishdir = "_site"
 [permalinks]
     page = "/:title/"

@@ -3,28 +3,42 @@
   <channel>
       <title>Recent Content on Hugo Teste </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://nolram.com/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     <language>en-us</language>
     
     
-    <updated>Fri, 14 Nov 2014 00:00:00 UTC</updated>
+    <updated>Thu, 22 Jan 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m always trying to speed up things!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nolram.com&#34;&gt;nolram.com&lt;/a&gt; my personal website. Made with &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; a Fast &amp;amp; Modern Static Website Engine, &lt;a href=&#34;http://tachyons.io&#34;&gt;Tachyons&lt;/a&gt; The fastest css framework in the world &amp;amp; &lt;a href=&#34;http://jxnblk.com/geomicons-open/&#34;&gt;Geomicons&lt;/a&gt; the Open Source icons for the Web.&lt;/p&gt;
+
+&lt;p&gt;Please feel free to fork this site.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>404</title>
-      <link>http://nolram.com/404/</link>
+      <link>http://localhost:1313/404/</link>
       <pubDate>Fri, 14 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/404/</guid>
+      <guid>http://localhost:1313/404/</guid>
       <description>&lt;p&gt;Page not found!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>atividades_13112014</title>
-      <link>http://nolram.com/maps/atividades_13112014/</link>
+      <link>http://localhost:1313/maps/atividades_13112014/</link>
       <pubDate>Thu, 13 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/maps/atividades_13112014/</guid>
+      <guid>http://localhost:1313/maps/atividades_13112014/</guid>
       <description>&lt;p&gt;Trajeto Casa/Trabalho de bicicleta: ~13KM:&lt;/p&gt;
 
 &lt;script src=&#34;https://gist.github.com/marloncabrera/2acd71f06090cfed1751.js&#34;&gt;&lt;/script&gt;
@@ -32,57 +46,41 @@
     </item>
     
     <item>
-      <title>about</title>
-      <link>http://nolram.com/about/</link>
-      <pubDate>Mon, 27 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://nolram.com/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;about us&lt;/h1&gt;
-
-&lt;p&gt;i&amp;rsquo;m speechless&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Install latest jekyll on Elementary Luna</title>
-      <link>http://nolram.com/post/Install-latest-jekyll-on-Elementary-Luna/</link>
+      <link>http://localhost:1313/post/Install-latest-jekyll-on-Elementary-Luna/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Install-latest-jekyll-on-Elementary-Luna/</guid>
+      <guid>http://localhost:1313/post/Install-latest-jekyll-on-Elementary-Luna/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/6ed048486f959782cf4a.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>LXC container Elementary Luna</title>
-      <link>http://nolram.com/post/LXC-container-Elementary-Luna/</link>
+      <link>http://localhost:1313/post/LXC-container-Elementary-Luna/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/LXC-container-Elementary-Luna/</guid>
+      <guid>http://localhost:1313/post/LXC-container-Elementary-Luna/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/d64565de2197233987a9.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
-      <title>Josiane</title>
-      <link>http://nolram.com/photo/Josiane/</link>
+      <title>Tweak Elementary Luna</title>
+      <link>http://localhost:1313/post/Tweak-Elementary-Luna/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/photo/Josiane/</guid>
-      <description>&lt;p&gt;Jo com o quadro da Nenufar ao fundo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/jo.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/post/Tweak-Elementary-Luna/</guid>
+      <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/d5bd4f251cbdb5a52860.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>Fernando</title>
-      <link>http://nolram.com/photo/Fernando/</link>
+      <link>http://localhost:1313/photo/Fernando/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/photo/Fernando/</guid>
+      <guid>http://localhost:1313/photo/Fernando/</guid>
       <description>&lt;p&gt;Fernando montando um MegaZord Tartaruga de Lego.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/fernando.jpg&#34;&gt;&lt;/p&gt;
@@ -90,11 +88,23 @@
     </item>
     
     <item>
-      <title>Carolina</title>
-      <link>http://nolram.com/photo/Carolina/</link>
+      <title>Josiane</title>
+      <link>http://localhost:1313/photo/Josiane/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/photo/Carolina/</guid>
+      <guid>http://localhost:1313/photo/Josiane/</guid>
+      <description>&lt;p&gt;Jo com o quadro da Nenufar ao fundo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/jo.jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carolina</title>
+      <link>http://localhost:1313/photo/Carolina/</link>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/photo/Carolina/</guid>
       <description>&lt;p&gt;Carolina caminhando na entrada de um mosteiro na Espanha.
 &lt;img src=&#34;/img/carolina.jpg&#34;&gt;&lt;/p&gt;
 </description>
@@ -102,10 +112,10 @@
     
     <item>
       <title>Marlon &amp; Carolina</title>
-      <link>http://nolram.com/photo/Marlon/</link>
+      <link>http://localhost:1313/photo/Marlon/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/photo/Marlon/</guid>
+      <guid>http://localhost:1313/photo/Marlon/</guid>
       <description>&lt;p&gt;Marlon &amp;amp; Carolina no casamento do Michel.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/marlon_carol.jpg&#34;&gt;&lt;/p&gt;
@@ -113,21 +123,11 @@
     </item>
     
     <item>
-      <title>Tweak Elementary Luna</title>
-      <link>http://nolram.com/post/Tweak-Elementary-Luna/</link>
-      <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://nolram.com/post/Tweak-Elementary-Luna/</guid>
-      <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/d5bd4f251cbdb5a52860.js&#34;&gt;&lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
       <title>We are Curitiba</title>
-      <link>http://nolram.com/post/We-are-Curitiba/</link>
+      <link>http://localhost:1313/post/We-are-Curitiba/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/We-are-Curitiba/</guid>
+      <guid>http://localhost:1313/post/We-are-Curitiba/</guid>
       <description>&lt;div class=&#34;embed video-player&#34;&gt;
     &lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;560px&#34; height=&#34;315px&#34; src=&#34;http://www.youtube.com/embed/cgjvEdm9JE8&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
     &lt;/iframe&gt;
@@ -136,41 +136,41 @@
     </item>
     
     <item>
-      <title>Install Tilemill on openSuse 13.1</title>
-      <link>http://nolram.com/post/Install-Tilemill-on-openSuse-13.1/</link>
-      <pubDate>Thu, 18 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://nolram.com/post/Install-Tilemill-on-openSuse-13.1/</guid>
-      <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/f0fd452b25b2d1c703d1.js&#34;&gt;&lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Tweak openSuse 13.11</title>
-      <link>http://nolram.com/post/Tweak-openSuse-13.11/</link>
+      <link>http://localhost:1313/post/Tweak-openSuse-13.11/</link>
       <pubDate>Thu, 18 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Tweak-openSuse-13.11/</guid>
+      <guid>http://localhost:1313/post/Tweak-openSuse-13.11/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/7de84bd4d9c94fa83403.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
+      <title>Install Tilemill on openSuse 13.1</title>
+      <link>http://localhost:1313/post/Install-Tilemill-on-openSuse-13.1/</link>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/post/Install-Tilemill-on-openSuse-13.1/</guid>
+      <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/f0fd452b25b2d1c703d1.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Core 2 Duo showing only one core in openSuse</title>
-      <link>http://nolram.com/post/Core-2-Duo-showing-only-one-core-in-openSuse/</link>
+      <link>http://localhost:1313/post/Core-2-Duo-showing-only-one-core-in-openSuse/</link>
       <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Core-2-Duo-showing-only-one-core-in-openSuse/</guid>
+      <guid>http://localhost:1313/post/Core-2-Duo-showing-only-one-core-in-openSuse/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/1ae3114bbb394e02eefe.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://nolram.com/post/first-post/</link>
+      <link>http://localhost:1313/post/first-post/</link>
       <pubDate>Sat, 13 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/first-post/</guid>
+      <guid>http://localhost:1313/post/first-post/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;first post&lt;/h1&gt;

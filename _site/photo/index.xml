@@ -3,7 +3,7 @@
   <channel>
       <title>Photos on Hugo Teste </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://nolram.com/photo/index.xml/</link>
+    <link>http://localhost:1313/photo/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Marlon &amp; Carolina</title>
-      <link>http://nolram.com/photo/Marlon/</link>
+      <link>http://localhost:1313/photo/Marlon/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/photo/Marlon/</guid>
+      <guid>http://localhost:1313/photo/Marlon/</guid>
       <description>&lt;p&gt;Marlon &amp;amp; Carolina no casamento do Michel.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/marlon_carol.jpg&#34;&gt;&lt;/p&gt;
@@ -23,36 +23,36 @@
     
     <item>
       <title>Carolina</title>
-      <link>http://nolram.com/photo/Carolina/</link>
+      <link>http://localhost:1313/photo/Carolina/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/photo/Carolina/</guid>
+      <guid>http://localhost:1313/photo/Carolina/</guid>
       <description>&lt;p&gt;Carolina caminhando na entrada de um mosteiro na Espanha.
 &lt;img src=&#34;/img/carolina.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Fernando</title>
-      <link>http://nolram.com/photo/Fernando/</link>
+      <title>Josiane</title>
+      <link>http://localhost:1313/photo/Josiane/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/photo/Fernando/</guid>
-      <description>&lt;p&gt;Fernando montando um MegaZord Tartaruga de Lego.&lt;/p&gt;
+      <guid>http://localhost:1313/photo/Josiane/</guid>
+      <description>&lt;p&gt;Jo com o quadro da Nenufar ao fundo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/fernando.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/jo.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Josiane</title>
-      <link>http://nolram.com/photo/Josiane/</link>
+      <title>Fernando</title>
+      <link>http://localhost:1313/photo/Fernando/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/photo/Josiane/</guid>
-      <description>&lt;p&gt;Jo com o quadro da Nenufar ao fundo.&lt;/p&gt;
+      <guid>http://localhost:1313/photo/Fernando/</guid>
+      <description>&lt;p&gt;Fernando montando um MegaZord Tartaruga de Lego.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/jo.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/fernando.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

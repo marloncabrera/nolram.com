@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on Hugo Teste </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://nolram.com/post/index.xml/</link>
+    <link>http://localhost:1313/post/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,40 +11,40 @@
     
     <item>
       <title>Install latest jekyll on Elementary Luna</title>
-      <link>http://nolram.com/post/Install-latest-jekyll-on-Elementary-Luna/</link>
+      <link>http://localhost:1313/post/Install-latest-jekyll-on-Elementary-Luna/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Install-latest-jekyll-on-Elementary-Luna/</guid>
+      <guid>http://localhost:1313/post/Install-latest-jekyll-on-Elementary-Luna/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/6ed048486f959782cf4a.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>LXC container Elementary Luna</title>
-      <link>http://nolram.com/post/LXC-container-Elementary-Luna/</link>
+      <link>http://localhost:1313/post/LXC-container-Elementary-Luna/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/LXC-container-Elementary-Luna/</guid>
+      <guid>http://localhost:1313/post/LXC-container-Elementary-Luna/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/d64565de2197233987a9.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>Tweak Elementary Luna</title>
-      <link>http://nolram.com/post/Tweak-Elementary-Luna/</link>
+      <link>http://localhost:1313/post/Tweak-Elementary-Luna/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Tweak-Elementary-Luna/</guid>
+      <guid>http://localhost:1313/post/Tweak-Elementary-Luna/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/d5bd4f251cbdb5a52860.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>We are Curitiba</title>
-      <link>http://nolram.com/post/We-are-Curitiba/</link>
+      <link>http://localhost:1313/post/We-are-Curitiba/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/We-are-Curitiba/</guid>
+      <guid>http://localhost:1313/post/We-are-Curitiba/</guid>
       <description>&lt;div class=&#34;embed video-player&#34;&gt;
     &lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;560px&#34; height=&#34;315px&#34; src=&#34;http://www.youtube.com/embed/cgjvEdm9JE8&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
     &lt;/iframe&gt;
@@ -53,41 +53,41 @@
     </item>
     
     <item>
-      <title>Install Tilemill on openSuse 13.1</title>
-      <link>http://nolram.com/post/Install-Tilemill-on-openSuse-13.1/</link>
-      <pubDate>Thu, 18 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://nolram.com/post/Install-Tilemill-on-openSuse-13.1/</guid>
-      <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/f0fd452b25b2d1c703d1.js&#34;&gt;&lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Tweak openSuse 13.11</title>
-      <link>http://nolram.com/post/Tweak-openSuse-13.11/</link>
+      <link>http://localhost:1313/post/Tweak-openSuse-13.11/</link>
       <pubDate>Thu, 18 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Tweak-openSuse-13.11/</guid>
+      <guid>http://localhost:1313/post/Tweak-openSuse-13.11/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/7de84bd4d9c94fa83403.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
+      <title>Install Tilemill on openSuse 13.1</title>
+      <link>http://localhost:1313/post/Install-Tilemill-on-openSuse-13.1/</link>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/post/Install-Tilemill-on-openSuse-13.1/</guid>
+      <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/f0fd452b25b2d1c703d1.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Core 2 Duo showing only one core in openSuse</title>
-      <link>http://nolram.com/post/Core-2-Duo-showing-only-one-core-in-openSuse/</link>
+      <link>http://localhost:1313/post/Core-2-Duo-showing-only-one-core-in-openSuse/</link>
       <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Core-2-Duo-showing-only-one-core-in-openSuse/</guid>
+      <guid>http://localhost:1313/post/Core-2-Duo-showing-only-one-core-in-openSuse/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/1ae3114bbb394e02eefe.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://nolram.com/post/first-post/</link>
+      <link>http://localhost:1313/post/first-post/</link>
       <pubDate>Sat, 13 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/first-post/</guid>
+      <guid>http://localhost:1313/post/first-post/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;first post&lt;/h1&gt;
@@ -144,40 +144,40 @@
     
     <item>
       <title>Spotify client on openSuse 13.1</title>
-      <link>http://nolram.com/post/Spotify-client-on-openSuse-13.1/</link>
+      <link>http://localhost:1313/post/Spotify-client-on-openSuse-13.1/</link>
       <pubDate>Sun, 07 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Spotify-client-on-openSuse-13.1/</guid>
+      <guid>http://localhost:1313/post/Spotify-client-on-openSuse-13.1/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/43ce98bb7e90b72edb4f.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>Resolve rodent-5.2.9 dependency on OpenSuse 13.1 x86_64</title>
-      <link>http://nolram.com/post/Resolve-rodent-5.2.9-dependency-on-OpenSuse-13.1-x86_64/</link>
+      <link>http://localhost:1313/post/Resolve-rodent-5.2.9-dependency-on-OpenSuse-13.1-x86_64/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Resolve-rodent-5.2.9-dependency-on-OpenSuse-13.1-x86_64/</guid>
+      <guid>http://localhost:1313/post/Resolve-rodent-5.2.9-dependency-on-OpenSuse-13.1-x86_64/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/e617913f0d8ec41a3ae1.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>Create librfm5 rpm for OpenSuse 13.1</title>
-      <link>http://nolram.com/post/Create-librfm5-rpm-for-OpenSuse-13.1/</link>
+      <link>http://localhost:1313/post/Create-librfm5-rpm-for-OpenSuse-13.1/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Create-librfm5-rpm-for-OpenSuse-13.1/</guid>
+      <guid>http://localhost:1313/post/Create-librfm5-rpm-for-OpenSuse-13.1/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/f6bf4e6c7ad73377102c.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>Create libdbh2 rpm for OpenSuse 13.1</title>
-      <link>http://nolram.com/post/Create-libdbh2-rpm-for-OpenSuse-13.1/</link>
+      <link>http://localhost:1313/post/Create-libdbh2-rpm-for-OpenSuse-13.1/</link>
       <pubDate>Wed, 20 Aug 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://nolram.com/post/Create-libdbh2-rpm-for-OpenSuse-13.1/</guid>
+      <guid>http://localhost:1313/post/Create-libdbh2-rpm-for-OpenSuse-13.1/</guid>
       <description>&lt;script src=&#34;https://gist.github.com/marloncabrera/54b6383addde6b12742c.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
