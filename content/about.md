@@ -1,5 +1,5 @@
 +++
-title = "about"
+title = "About"
 description = "about this site"
 date = "2015-01-22"
 +++
